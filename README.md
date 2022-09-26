@@ -1,4 +1,4 @@
-# productos_app
+# Log in page
 
 Blank login screen ready to add functionalities
 
